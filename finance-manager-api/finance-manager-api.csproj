@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>finance_manager_api</RootNamespace>
+    <UserSecretsId>20c95be0-7bfc-42be-8b48-6c35af584072</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.23.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Payment\Controllers\" />
+    <Folder Include="Payment\DTOs\" />
+    <Folder Include="Payment\Entities\" />
+    <Folder Include="Payment\Mapper\" />
+    <Folder Include="Payment\Repositories\" />
+    <Folder Include="Payment\Services\" />
+    <Folder Include="Transaction\Controllers\" />
+    <Folder Include="Transaction\DTOs\" />
+    <Folder Include="Transaction\Entities\" />
+    <Folder Include="Transaction\Mapper\" />
+    <Folder Include="Transaction\Repositories\" />
+    <Folder Include="Transaction\Services\" />
+  </ItemGroup>
+
+</Project>

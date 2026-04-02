@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|c:\\users\\marzi\\documents\\development\\_github\\finance-manager-api\\finance-manager-api\\category\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|solutionrelative:finance-manager-api\\category\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|c:\\users\\marzi\\documents\\development\\_github\\finance-manager-api\\finance-manager-api\\category\\dtos\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|solutionrelative:finance-manager-api\\category\\dtos\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|c:\\users\\marzi\\documents\\development\\_github\\finance-manager-api\\finance-manager-api\\category\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|solutionrelative:finance-manager-api\\category\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|c:\\users\\marzi\\documents\\development\\_github\\finance-manager-api\\finance-manager-api\\category\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|solutionrelative:finance-manager-api\\category\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|c:\\users\\marzi\\documents\\development\\_github\\finance-manager-api\\finance-manager-api\\category\\mapper\\categorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|solutionrelative:finance-manager-api\\category\\mapper\\categorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|c:\\users\\marzi\\documents\\development\\_github\\finance-manager-api\\finance-manager-api\\category\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|solutionrelative:finance-manager-api\\category\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|c:\\users\\marzi\\documents\\development\\_github\\finance-manager-api\\finance-manager-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|solutionrelative:finance-manager-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|c:\\users\\marzi\\documents\\development\\_github\\finance-manager-api\\finance-manager-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567B79D6-B940-9468-A5B0-91F96654F774}|finance-manager-api\\finance-manager-api.csproj|solutionrelative:finance-manager-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "finance-manager-api\\Category\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "finance-manager-api\\Category\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T13:15:08.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\DTOs\\CategoryResponseDTO.cs",
+              "RelativeDocumentMoniker": "finance-manager-api\\Category\\DTOs\\CategoryResponseDTO.cs",
+              "ToolTip": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\DTOs\\CategoryResponseDTO.cs",
+              "RelativeToolTip": "finance-manager-api\\Category\\DTOs\\CategoryResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:38:05.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "finance-manager-api\\Category\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "finance-manager-api\\Category\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:30:54.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "finance-manager-api\\Category\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\Services\\CategoryService.cs",
+              "RelativeToolTip": "finance-manager-api\\Category\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:17:37.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryMapper.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\Mapper\\CategoryMapper.cs",
+              "RelativeDocumentMoniker": "finance-manager-api\\Category\\Mapper\\CategoryMapper.cs",
+              "ToolTip": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\Mapper\\CategoryMapper.cs",
+              "RelativeToolTip": "finance-manager-api\\Category\\Mapper\\CategoryMapper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:24:39.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\DTOs\\CreateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "finance-manager-api\\Category\\DTOs\\CreateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Category\\DTOs\\CreateCategoryDTO.cs",
+              "RelativeToolTip": "finance-manager-api\\Category\\DTOs\\CreateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:55:33.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Program.cs",
+              "RelativeDocumentMoniker": "finance-manager-api\\Program.cs",
+              "ToolTip": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Program.cs",
+              "RelativeToolTip": "finance-manager-api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:14:22.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "finance-manager-api\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\marzi\\Documents\\Development\\_Github\\finance-manager-api\\finance-manager-api\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "finance-manager-api\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:24:17.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
